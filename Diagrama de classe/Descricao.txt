@@ -1,0 +1,1 @@
+Os diagramas de classe ainda estão em desenvolvimento, bem como o restante da estrutura do sistema a ser utilizada.
